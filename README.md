@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1>ola mundo</h1>
+<p>ola mundo</p>
 <!--
 **Max3597/Max3597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+<p align= "center">
+  <img 
+    src="https://github.com/README.md/blob/main/dino-non-birthday-version-0.gif" wedth = "100%" height = "300")
+</p>
